@@ -4,7 +4,9 @@
   "description": "making a newsletter app with help of node js and express and API ",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "Gourav Supakar",
   "license": "ISC",
